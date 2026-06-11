@@ -1,0 +1,1 @@
+import{W as e}from"../index88614.js";var t=t=>e({get:()=>t.value==null?null:t.value/100,set:e=>{t.value=e==null?null:e*100}});export{t};
